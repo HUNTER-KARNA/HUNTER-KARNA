@@ -30,7 +30,7 @@ I am Karan, a developer who doesn’t follow trends—I create them. My work ref
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karan's&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karan,s&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
