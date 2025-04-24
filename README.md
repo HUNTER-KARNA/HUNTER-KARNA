@@ -47,7 +47,7 @@ I am Karan, a developer who doesn’t follow trends—I create them. My work ref
 ---
 
 ## 🌐 𝐅𝐢𝐧𝐝 𝐊𝐚𝐫𝐚𝐧 𝐎𝐧
-- Telegram: [ @hunter_karan](https://t.me/hunter_karan)  
+- Telegram: [@hunter_karan](https://t.me/hunter_karan)  
 
 ---
 
