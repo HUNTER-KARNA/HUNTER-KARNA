@@ -29,12 +29,12 @@ I am Karan, a developer who doesn’t follow trends—I create them. My work ref
 ## 🏆 𝐋𝐞𝐠𝐞𝐧𝐝𝐚𝐫𝐲 𝐒𝐭𝐚𝐭𝐬
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter-Karan&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter-Karan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunter_Karan&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter_Karan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hunter-Karan&theme=high-contrast" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hunter_Karan&theme=high-contrast" alt="GitHub Contribution Graph" />
 </p>
 
 ---
