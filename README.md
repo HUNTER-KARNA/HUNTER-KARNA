@@ -1,7 +1,7 @@
 <h1 align="center">𝐊𝐀𝐑𝐀𝐍 ⚡ 𝐓𝐇𝐄 𝐔𝐋𝐓𝐈𝐌𝐀𝐓𝐄 𝐂𝐑𝐄𝐀𝐓𝐎𝐑 💥</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Karan's+Legendary+Space+%F0%9F%92%A5;Mastermind+of+Code+%26+Logic+%F0%9F%91%91;Building+the+Future+One+Line+at+a+Time...+%E2%9C%A8;Perfection+is+Temporary%2C+Legends+are+Forever+%E2%9A%A1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+Karan%27s+Legendary+Space+%F0%9F%92%A5;Mastermind+of+Code+%26+Logic+%F0%9F%91%91;Building+the+Future+One+Line+at+a+Time...+%E2%9C%A8;Perfection+is+Temporary%2C+Legends+are+Forever+%E2%9A%A1">
 </p>
 
 ---
@@ -17,24 +17,25 @@ I am Karan, a developer who doesn’t follow trends—I create them. My work ref
 
 ## 🚀 𝐊𝐚𝐫𝐚𝐧'𝐬 𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐒𝐭𝐚𝐜𝐤
 | Domain       | Mastery                                                                 |
-|-------------------|-----------------------------------------------------------------------------|
-| Programming   | Python, JavaScript, TypeScript                                       |
-| Frameworks    | React, Node.js, Flask, FastAPI                                             |
-| Databases     | MongoDB, PostgreSQL, CockroachDB                                           |
-| DevOps        | Docker, Kubernetes, GitHub Actions, CI/CD                                 |
-| Weapons       | Advanced Debugging, System Design, and Scalable Solutions                 |
+|--------------|--------------------------------------------------------------------------|
+| Programming  | Python, JavaScript, TypeScript                                           |
+| Frameworks   | React, Node.js, Flask, FastAPI                                           |
+| Databases    | MongoDB, PostgreSQL, CockroachDB                                         |
+| DevOps       | Docker, Kubernetes, GitHub Actions, CI/CD                                |
+| Weapons      | Advanced Debugging, System Design, and Scalable Solutions                |
 
 ---
 
 ## 🏆 𝐋𝐞𝐠𝐞𝐧𝐝𝐚𝐫𝐲 𝐒𝐭𝐚𝐭𝐬
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hunter_Karan&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter_Karan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hunter-Karan&show_icons=true&theme=merko&count_private=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hunter-Karan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hunter_Karan&theme=high-contrast" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hunter-Karan&theme=high-contrast" alt="GitHub Contribution Graph" />
 </p>
 
 ---
